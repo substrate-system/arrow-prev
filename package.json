@@ -1,6 +1,8 @@
 {
   "name": "@substrate-system/arrow-prev",
   "type": "module",
+  "description": "Back arrow button as a web component",
+  "types": "./dist/index.d.ts",
   "version": "0.0.1",
   "main": "dist/index.js",
   "files": [
@@ -44,7 +46,6 @@
       ]
     }
   },
-  "dependencies": {},
   "devDependencies": {
     "@bicycle-codes/debug": "^0.6.13",
     "@bicycle-codes/dom": "^0.0.23",
@@ -70,5 +71,23 @@
     "vite": "^5.3.4"
   },
   "author": "nichoth <nichoth@nichoth.com> (https://nichoth.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/substrate-system/arrow-prev.git"
+  },
+  "keywords": [
+    "back",
+    "arrow",
+    "web",
+    "component"
+  ],
+  "bugs": {
+    "url": "https://github.com/substrate-system/arrow-prev/issues"
+  },
+  "homepage": "https://github.com/substrate-system/arrow-prev#readme"
 }
