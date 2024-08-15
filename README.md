@@ -35,7 +35,15 @@ require('@substrate-system/arrow-prev')
 
 ## CSS
 
-### Import CSS
+### `@substrate-system/css-util`
+
+Use `@substrate-system/css-util/arrow`, or import CSS from this module.
+
+```js
+import '@substrate-system/css-util/arrow'
+```
+
+### Import this module's CSS
 
 ```js
 import '@substrate-system/arrow-prev/css'
