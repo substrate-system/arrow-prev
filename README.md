@@ -13,6 +13,20 @@ An icon button for going backwards.
 
 <!-- toc -->
 
+- [install](#install)
+- [API](#api)
+  * [ESM](#esm)
+  * [Common JS](#common-js)
+- [CSS](#css)
+  * [`@substrate-system/css-util`](#substrate-systemcss-util)
+  * [Import this module's CSS](#import-this-modules-css)
+- [use](#use)
+  * [JS](#js)
+  * [HTML](#html)
+  * [pre-built](#pre-built)
+
+<!-- tocstop -->
+
 ## install
 
 ```sh
