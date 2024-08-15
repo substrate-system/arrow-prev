@@ -3,7 +3,7 @@
   "type": "module",
   "description": "Back arrow button as a web component",
   "types": "./dist/index.d.ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "files": [
     "./dist/*"
