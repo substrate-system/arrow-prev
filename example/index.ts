@@ -1,6 +1,9 @@
 import '../src/index.css'
 import '../src/index.js'
+import '@substrate-system/css-util'
+import '@substrate-system/css-util/visually-hidden'
+import '@substrate-system/css-util/arrow'
 
 document.body.innerHTML += `
-    <{{component-name}}></{{component-name}}>
+    <arrow-prev></arrow-prev>
 `
